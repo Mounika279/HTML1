@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>VENKAT</h1>
+<h2>Career objective</h2>
+
+To pursue a challenging career in an organization which gives an opportunity to enhance my knowledge and skills, so as to master my field of employment and contribute to the growth of
+the organization.
+
+<h2>Hobbies</h2>
+.playing games
+.travelling
+.cooking
+
+<h2>Technical Skills</h2>
+.Python
+.SQL
+.css
+.java
+
+I hereby declare that the above written particulars are true to the best of knowledge and belief.
+December 5,2023
+Kothapet,
+Hyderabad,
+Telangana.
+</pre>
+</body>
+</html>
